@@ -1,5 +1,5 @@
 # Quote-of-the-Day
-Hey friends, today we learn how to Build A Random Quote Generator in HTML CSS & JavaScript
+Hey friends, today I create A Random Quote Generator in HTML CSS & JavaScript
 Random Quote Generator used to generate random quotes.
  In this Random Quote Generator project,
  there is a quote that will be changed randomly,
